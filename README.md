@@ -3,7 +3,7 @@
 
 ###
 
-![17CE6F7E-5D33-4881-B704-66CC1ABE4324](https://user-images.githubusercontent.com/116136562/233181095-f7cefbe5-edad-4709-bb81-adf199c25bba.PNG)
+<!--![17CE6F7E-5D33-4881-B704-66CC1ABE4324](https://user-images.githubusercontent.com/116136562/233181095-f7cefbe5-edad-4709-bb81-adf199c25bba.PNG)-->
 
 ###
 
@@ -21,15 +21,15 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsankoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsankoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ihsankoo&locale=en&mode=weekly&theme=gradient&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jerichsov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerichsov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jerichsov&locale=en&mode=weekly&theme=gradient&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ihsankoo/" target="_blank">
+  <a href="https://www.linkedin.com/in/asm19trkz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
